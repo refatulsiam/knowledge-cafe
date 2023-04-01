@@ -11,15 +11,26 @@ import Question from './Components/Question/Question';
 
 const App = () => {
 
-  const [times, setTimes] = useState(0);
+  const [times, setTimes] = useState("");
   const [texts, setTexts] = useState([]);
 
 
   const addReadingTime = (time) => {
 
-    setTimes(times + time);
-
+    // setTimes(times + time);
+    // console.log(time);
+    const previousReadingTime = JSON.parse(localStorage.getItem("readingTime"));
+    if(previousReadingTime){
+      const sum = previousReadingTime + time;
+      localStorage.setItem("readingTime", sum);
+      setTimes(sum);
+    }
+    else{
+      localStorage.setItem("readingTime", time);
+      setTimes(time);
+    }
   }
+  
 
   const addBookMark = (text) => {
     if (texts.includes(text)) {

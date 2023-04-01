@@ -39,7 +39,7 @@ const Card = ({ card, addReadingTime, addBookMark }) => {
                     <p className="card-text text-secondary">
                         #beginners  #programming
                     </p>
-                    <a href="#" onClick={() => addReadingTime(addReadingTime)}  >
+                    <a href="#" onClick={() => addReadingTime(Read_time)}  >
                         Mark as read
                     </a>
                 </div>
