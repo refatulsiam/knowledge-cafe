@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "Author_name": "Jhankar Mahbub",
+    "Author_image": "https://media.licdn.com/dms/image/D5603AQEOjP3ON2knRg/profile-displayphoto-shrink_800_800/0/1677507598430?e=2147483647&v=beta&t=G-6CChYSPDCnu-Hl5VBqfgSQax6aZaCfkOnQWVm_584",
+    "Blog_title": "How To Become A Programmer - 8 Things You Must Know Before Learning Programming",
+    "Blog_image": "https://www.programming-hero.com/blog/assets/images/blog/how-to-become-a-programmer.png",
+    "Read_time": 5,
+    "Publish_Date": "Mar 14 (7 Days ago)"
+  },
+  {
+    "id": "02",
+    "Author_name": "Md. Gias Uddin Hasan",
+    "Author_image": "https://scontent.fdac136-1.fna.fbcdn.net/v/t39.30808-6/337112404_895503921674982_3631239948056052320_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ExAei6pnR6EAX_Gz21o&_nc_ht=scontent.fdac136-1.fna&oh=00_AfBzXp0nQayFZEnwAEbKN0X7wfRnA-dIzZ_5uhK2KhhPKg&oe=642D9724",
+    "Blog_title": "Create Beautiful Websites Without Coding!",
+    "Blog_image": "https://www.programming-hero.com/blog/assets/images/blog/create-beautiful-websites-without-coding.png",
+    "Read_time": 10,
+    "Publish_Date": "Mar 17 (10 Days ago)"
+  },
+  {
+    "id": "03",
+    "Author_name": "Jhankar Mahbub",
+    "Author_image": "https://media.licdn.com/dms/image/D5603AQEOjP3ON2knRg/profile-displayphoto-shrink_800_800/0/1677507598430?e=2147483647&v=beta&t=G-6CChYSPDCnu-Hl5VBqfgSQax6aZaCfkOnQWVm_584",
+    "Blog_title": "Top 20 VS Code Extension That Every Developer Should Have",
+    "Blog_image": "https://www.programming-hero.com/blog/assets/images/blog/top-20-vs-code-extension-that-every-developer-should-have.png",
+    "Read_time": 15,
+    "Publish_Date": "Mar 04 (14 Days ago)"
+  },
+  {
+    "id": "04",
+    "Author_name": "Jhankar Mahbub",
+    "Author_image": "https://media.licdn.com/dms/image/D5603AQEOjP3ON2knRg/profile-displayphoto-shrink_800_800/0/1677507598430?e=2147483647&v=beta&t=G-6CChYSPDCnu-Hl5VBqfgSQax6aZaCfkOnQWVm_584",
+    "Blog_title": "Top Web Development Stacks That You Should Know To Land With A 6 Figure Salary",
+    "Blog_image": "https://www.programming-hero.com/blog/assets/images/blog/top-web-development-stacks-that-you-should-know-to-land-with-a-6-figure-salary.png",
+    "Read_time": 25,
+    "Publish_Date": "Mar 20 (2 Days ago)"
+  }
+]
