@@ -49,12 +49,12 @@ const Question = () => {
                     <div className="accordion-item">
                         <h2 className="accordion-header" id="headingFour">
                             <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                4. How does react work ?
+                                4. How does react work ? 
                             </button>
                         </h2>
                         <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                             <div className="accordion-body">
-                                <strong>React : </strong> React is a JavaScript library that helps developers build user interfaces. It uses a virtual DOM to efficiently update the UI, making it faster and more responsive. React components manage their own state and can interact with other components through props. 
+                                <strong>React : </strong> React is a JavaScript library that helps developers build user interfaces. It uses a virtual DOM to efficiently update the UI, making it faster and more responsive. React components manage their own state and can interact with other components through props.!
                             </div>
                         </div>
                     </div>
