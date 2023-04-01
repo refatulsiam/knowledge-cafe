@@ -18,7 +18,7 @@ const Question = () => {
                         </h2>
                         <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                             <div className="accordion-body">
-                                <strong>Props and State :</strong> Props are used to pass data from one component to another and props are read only and cannot be changed. On the otherhand state is a local data storage that is local to the component only and cannot be passed to other components & it can be modified .
+                                <strong>Props and State :</strong> Props are used to pass data from one component to another and props are read only and cannot be changed. On the other hand state is a local data storage that is local to the component only and cannot be passed to other components & it can be modified .
                             </div>
                         </div>
                     </div>
