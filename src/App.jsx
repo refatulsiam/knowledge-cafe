@@ -7,6 +7,7 @@ import { useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Question from './Components/Question/Question';
+import Footer from './Components/Footer/Footer';
 
 
 const App = () => {
@@ -55,6 +56,7 @@ const App = () => {
       </div>
       <div className='mb-3 mx-md-5 px-md-5 mt-md-3'>
         <Question></Question>
+        <Footer></Footer>
       </div>
       <ToastContainer></ToastContainer>
     </div>
